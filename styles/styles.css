@@ -1,20 +1,18 @@
 /* Typography */
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color: #000080;
+}
 
 h1, h2 {
     font-family: 'Abril Fatface', cursive;
     color: #FF7F50;
 }
 
-p, a {
-    font-family: 'Roboto', sans-serif;
-    font-size: 14px;
-    color: #000080;
-}
+
 
 /* Layout */
 
 
 /* Media */
-
-
-
